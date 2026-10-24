@@ -1,0 +1,1 @@
+export default {content:["./index.html","./src/**/*.{js,jsx}"],theme:{extend:{colors:{cream:"#FFFBF2",ink:"#14213D",royal:"#1E3A8A",sun:"#FCA311",mint:"#16A34A"},fontFamily:{display:['"Bricolage Grotesque Variable"',"sans-serif"],sans:['"Inter Variable"',"sans-serif"]}}},plugins:[]};
